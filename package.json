@@ -1,0 +1,19 @@
+{
+  "name": "cdn",
+  "version": "0.0.1",
+  "description": "static digital ocean app / cdn for Brandon Nozaki Millers browser modules",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RIAEvangelist/cdn.git"
+  },
+  "author": "Brandon Nozaki Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RIAEvangelist/cdn/issues"
+  },
+  "homepage": "https://github.com/RIAEvangelist/cdn#readme"
+}
