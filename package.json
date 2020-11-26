@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/RIAEvangelist/cdn/issues"
   },
-  "homepage": "https://github.com/RIAEvangelist/cdn#readme"
+  "homepage": "https://github.com/RIAEvangelist/cdn#readme",
+  "dependencies": {
+    "event-pubsub": "^5.0.1",
+    "js-message": "^1.0.7",
+    "vanilla-test": "^1.4.2"
+  }
 }
