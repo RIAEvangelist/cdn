@@ -3,4 +3,4 @@ Digital Ocean CDN app for my npm modules that can be used in the browser, or to 
 
 I will keep adding more of my opensource work into this app through the hooks in Digital Ocean. Check it out :
 
-## [RIAEvangelist isomorphic module and node coverage CDN](https://cdn-p939v.ondigitalocean.app/)
+## [RIAEvangelist isomorphic module and node coverage CDN](https://cdn-avsja.ondigitalocean.app/)
